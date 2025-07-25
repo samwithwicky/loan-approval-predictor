@@ -92,15 +92,15 @@ The performance of each model on the test dataset is visualized below:
 
 ### Decision Tree
 
-![Decision Tree Classifier Results](assets\logistic.png)
+![Decision Tree Classifier Results](loan_tree.py)
 
 ### Random Forest
 
-## ![Random Forest Classifier Results](assets\logistic.png)
+![Random Forest Classifier Results](assets\forest.png)
 
 ## 📂 Dataset Source
 
-The dataset used is[Loan Prediction Kaggle Dataset] (https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
+The dataset used is: [Loan Prediction Kaggle Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 
 ---
 
@@ -109,7 +109,3 @@ The dataset used is[Loan Prediction Kaggle Dataset] (https://www.kaggle.com/data
 - **Feature Engineering:** Create new, more informative features from the existing data.
 - **Hyperparameter Tuning:** Use techniques like GridSearchCV to find the optimal parameters for each model.
 - **Ensemble Methods:** Combine the models using a Voting Classifier to potentially improve prediction accuracy.
-
-```
-
-```
