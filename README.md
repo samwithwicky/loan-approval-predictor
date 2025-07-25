@@ -88,15 +88,15 @@ The performance of each model on the test dataset is visualized below:
 
 ### Logistic Regression
 
-![Logistic Regression Results](assets\logistic.png)
+![Logistic Regression Results](assets/logistic.png)
 
 ### Decision Tree
 
-![Decision Tree Classifier Results](loan_tree.py)
+![Decision Tree Classifier Results](assets/tree.png)
 
 ### Random Forest
 
-![Random Forest Classifier Results](assets\forest.png)
+![Random Forest Classifier Results](assets/forest.png)
 
 ## 📂 Dataset Source
 
