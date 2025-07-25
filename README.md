@@ -98,6 +98,8 @@ The performance of each model on the test dataset is visualized below:
 
 ![Random Forest Classifier Results](assets/forest.png)
 
+While tree and forest have the largest accuracy scores this is actually due to overfitting and logistic regression actually provides the most reliable results.
+
 ## 📂 Dataset Source
 
 The dataset used is: [Loan Prediction Kaggle Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
